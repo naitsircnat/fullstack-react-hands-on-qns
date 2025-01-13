@@ -1,11 +1,10 @@
-import React from 'react';
-import './App.css';
-import AreaForm from './AreaForm'
+import "./App.css";
+import AreaForm from "./AreaForm";
 
 function App() {
   return (
     <div className="App">
-      <AreaForm/>
+      <AreaForm />
     </div>
   );
 }
